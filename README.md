@@ -14,7 +14,9 @@ hElLo wOrLd
 CSV created
 
 -----------------------------------------------------------------------------------------------------------
-php application convert hello world --run this to run the cli
+command to run :
+php application convert hello world 
 
-./vendor/bin/pest -- run this to run the test
+command to test:
+./vendor/bin/pest
 ------------------------------------------------------------------------------------------------------------
