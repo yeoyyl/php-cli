@@ -32,8 +32,6 @@ Please make sure your php version is PHP 7.3+
 Please run composer install to install the required packages.
 
 ## Running the tests
-
-This command will run the test file [ConvertCommandTest.php]
 ./vendor/bin/pest
 
 ## Running the command
